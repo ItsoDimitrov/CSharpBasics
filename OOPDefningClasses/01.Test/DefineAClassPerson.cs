@@ -2,7 +2,7 @@
 
 namespace _01.Test
 {
-    class Program
+    class DefineAClassPerson
     {
         static void Main(string[] args)
         {
