@@ -17,7 +17,6 @@ namespace _01.Test
                 personName = "Pesho",
                 personAge = 20
             };
-            Console.WriteLine(pesho);
 
             var gosho = new Person
             {
