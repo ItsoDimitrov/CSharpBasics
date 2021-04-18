@@ -4,7 +4,9 @@ using System.Text;
 
 namespace _01.DefineAClassPerson
 {
-    class Person
+    public class Person
     {
+        public string personName { get; set; }
+        public int personAge { get; set; }
     }
 }
