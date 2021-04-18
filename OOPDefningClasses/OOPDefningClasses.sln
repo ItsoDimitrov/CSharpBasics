@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DefineAClassPerson", "01.DefineAClassPerson\01.DefineAClassPerson.csproj", "{4966196F-85FB-4A15-9CB6-CD4E6B6B2CF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DefineAClassPerson", "01.DefineAClassPerson\01.DefineAClassPerson.csproj", "{4966196F-85FB-4A15-9CB6-CD4E6B6B2CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CreatingAConstructor", "02.CreatingAConstructor\02.CreatingAConstructor.csproj", "{9C680D28-33EA-48CE-9F5B-E15C4397C64A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4966196F-85FB-4A15-9CB6-CD4E6B6B2CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4966196F-85FB-4A15-9CB6-CD4E6B6B2CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4966196F-85FB-4A15-9CB6-CD4E6B6B2CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C680D28-33EA-48CE-9F5B-E15C4397C64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C680D28-33EA-48CE-9F5B-E15C4397C64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C680D28-33EA-48CE-9F5B-E15C4397C64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C680D28-33EA-48CE-9F5B-E15C4397C64A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
